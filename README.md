@@ -14,8 +14,6 @@ Welcome to the Shellcodes repository! This repository contains a collection of s
 ## Table of Contents
 - [Description](#description)
 - [Usage](#usage)
-- [Contribution](#contribution)
-- [License](#license)
 - [Contact](#contact)
 
 ## Description
